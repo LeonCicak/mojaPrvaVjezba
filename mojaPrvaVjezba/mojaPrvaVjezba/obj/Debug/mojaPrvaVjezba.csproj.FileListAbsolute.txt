@@ -1,0 +1,2 @@
+C:\Users\Leon\source\repos\mojaPrvaVjezba\mojaPrvaVjezba\obj\Debug\mojaPrvaVjezba.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\mojaPrvaVjezba\mojaPrvaVjezba\obj\Debug\mojaPrvaVjezba.csproj.CoreCompileInputs.cache
